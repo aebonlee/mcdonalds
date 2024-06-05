@@ -4,4 +4,4 @@
 http://mcdonalds.jobability.co.kr
 
 
-<ims src="./mcdonalds.png"/>
+<img src="./mcdonalds.png"/>
